@@ -6,10 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/thaistavares/nodejs-express-mysql.git"
-  },
   "keywords": [
     "nodejs",
     "express",
@@ -18,10 +14,6 @@
   ],
   "author": "bezkoder",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/thaistavares/nodejs-express-mysql/issues"
-  },
-  "homepage": "https://github.com/thaistavares/nodejs-express-mysql#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
